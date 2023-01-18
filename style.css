@@ -28,12 +28,13 @@ body {
 header {
     display: flex;
     align-items: center;  
-    justify-content: space-between;
+    justify-content:space-between;
     overflow: hidden;
     position: fixed;
     top: 0;
-    width: 100%;
+    width: 130%;
     background-color: black;
+    margin: 0 -500px;
     
     
 
@@ -43,6 +44,7 @@ header nav {
     display: flex;
     gap: 40px ;
     margin-right: 200px;
+    
     
     
 
@@ -67,6 +69,7 @@ header nav a:hover {
 header img {
     width: 150px;
     display: inline-block
+    
 }
 
 section {
