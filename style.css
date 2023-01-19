@@ -34,7 +34,8 @@ header {
     top: 0;
     width: 130%;
     background-color: black;
-    margin: 0 -500px;
+    margin: 0 -70px;
+    padding: 20px;
     
     
 
@@ -43,7 +44,7 @@ header {
 header nav {
     display: flex;
     gap: 40px ;
-    margin-right: 200px;
+    margin-right: 800px;
     
     
     
